@@ -17,7 +17,7 @@ setup(
     python_requires='>=3.4',
     test_suite='tests',
     packages=find_packages(),
-    url='https://github.com/certtools/intelmq/',
+    url='https://github.com/certat/npm-audit-check',
     license='AGPLv3',
     description='Creates checkmk local check file for npm audit output.',
     long_description=README,
