@@ -21,6 +21,7 @@ setup(
     license='AGPLv3',
     description='Creates checkmk local check file for npm audit output.',
     long_description=README,
+    long_description_content_type="text/markdown",
     classifiers=[
         'Development Status :: 4 - Beta',
         'Environment :: Console',
